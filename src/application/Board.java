@@ -1,4 +1,4 @@
-package classes;
+package application;
 //FIXME move this and save/load to main
 import java.io.*;
 

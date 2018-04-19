@@ -1,4 +1,4 @@
-package classes;
+package application;
 
 /****************************************************************************
  * A class to hold the logic for countries. Countries have a name and a

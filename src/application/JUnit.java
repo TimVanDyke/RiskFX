@@ -1,4 +1,4 @@
-package classes;
+package application;
 
 import static org.junit.Assert.*;
 
